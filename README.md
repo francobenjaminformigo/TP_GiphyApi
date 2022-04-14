@@ -1,6 +1,6 @@
 # TP. Giphy Api / Random Simpson Gif App
 
-Ejercitación hecha para profundizar en los **componentes de clase**, el **ciclo de vida de los componentes** y la **integracion de apis** en **React**.
+Ejercitación hecha con **create-react-app** para profundizar en los **componentes de clase**, el **ciclo de vida de los componentes** y la **integracion de apis** en **React**.
 
 La consigna no lo pedía pero decidí hacerla unicamente con gifs de Los Simpsons para agregarle un toque de originalidad y motivación extra.
 
